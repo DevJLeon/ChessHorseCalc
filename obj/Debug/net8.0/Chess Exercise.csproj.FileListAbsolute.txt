@@ -1,0 +1,14 @@
+C:\Users\Joshua\Documents\PROYECTOS\C#\Chess Exercise\bin\Debug\net8.0\Chess Exercise.exe
+C:\Users\Joshua\Documents\PROYECTOS\C#\Chess Exercise\bin\Debug\net8.0\Chess Exercise.deps.json
+C:\Users\Joshua\Documents\PROYECTOS\C#\Chess Exercise\bin\Debug\net8.0\Chess Exercise.runtimeconfig.json
+C:\Users\Joshua\Documents\PROYECTOS\C#\Chess Exercise\bin\Debug\net8.0\Chess Exercise.dll
+C:\Users\Joshua\Documents\PROYECTOS\C#\Chess Exercise\bin\Debug\net8.0\Chess Exercise.pdb
+C:\Users\Joshua\Documents\PROYECTOS\C#\Chess Exercise\obj\Debug\net8.0\Chess Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua\Documents\PROYECTOS\C#\Chess Exercise\obj\Debug\net8.0\Chess Exercise.AssemblyInfoInputs.cache
+C:\Users\Joshua\Documents\PROYECTOS\C#\Chess Exercise\obj\Debug\net8.0\Chess Exercise.AssemblyInfo.cs
+C:\Users\Joshua\Documents\PROYECTOS\C#\Chess Exercise\obj\Debug\net8.0\Chess Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Documents\PROYECTOS\C#\Chess Exercise\obj\Debug\net8.0\Chess Exercise.dll
+C:\Users\Joshua\Documents\PROYECTOS\C#\Chess Exercise\obj\Debug\net8.0\refint\Chess Exercise.dll
+C:\Users\Joshua\Documents\PROYECTOS\C#\Chess Exercise\obj\Debug\net8.0\Chess Exercise.pdb
+C:\Users\Joshua\Documents\PROYECTOS\C#\Chess Exercise\obj\Debug\net8.0\Chess Exercise.genruntimeconfig.cache
+C:\Users\Joshua\Documents\PROYECTOS\C#\Chess Exercise\obj\Debug\net8.0\ref\Chess Exercise.dll
